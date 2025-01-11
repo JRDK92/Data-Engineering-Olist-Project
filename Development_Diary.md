@@ -2,28 +2,27 @@
 
 > Note: Entry dates reflect development timeline rather than commit history, as this project underwent testing and documentation before GitHub upload.
 
-## Version 0.01 - Data Pipeline Setup
+## 9-15-2023 - Data Pipeline Setup
 Established automated ETL pipeline connecting Kaggle to Google BigQuery:
 - Implemented Kaggle API integration for dataset retrieval
 - Engineered data transformation layer using Pandas
 - Developed automated BigQuery table creation and population system
 
-## Version 0.02-0.03 - Analytics Foundation
+## 10-15-2023 - Analytics Foundation
 Created comprehensive analytics framework in `SQL_Queries.py`:
 - Engineered modular query system for business intelligence
-- Implemented advanced SQL analytics covering:
+- Developed tables in Google Cloud's BigQuery covering:
   - Order tracking and analysis
   - Product performance metrics
   - Seller performance evaluation
   - Revenue analysis and forecasting
   - Shipping optimization queries
 
-## Future Development Plans 🚀
-- Creating denormalized analytical tables for optimized querying
-- DBT integration with BigQuery for:
-  - Automated table materialization
-  - View generation
-  - Data modeling improvements
 
----
-💡 Each version represents significant architectural decisions and technical implementations in building a production-ready data pipeline.
+
+## January 5th 2025 - Project Revival
+After a significant hiatus/pause, I've decided to continue development of this project to continue learning and enhancing my skills
+
+## 1-6-2025
+- Developed a Date Dimension table using pure SQL. I started with a series of Calendar Dates, and using SQL, performed significant calculations to create relative and time series dating, quarter names, etc.
+
