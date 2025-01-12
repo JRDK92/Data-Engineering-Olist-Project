@@ -20,9 +20,12 @@ Created comprehensive analytics framework in `SQL_Queries.py`:
 
 
 
-## January 5th 2025 - Project Revival
+## 1-5-2025 - Project Revival
 After a significant hiatus/pause, I've decided to continue development of this project to continue learning and enhancing my skills
 
 ## 1-6-2025
 - Developed a Date Dimension table using pure SQL. I started with a series of Calendar Dates, and using SQL, performed significant calculations to create relative and time series dating, quarter names, etc.
+
+## 1-8-2025
+- Created STORE MANAGERS mock data using Mockaroo to add Store Manager names to my Store ID file to create realistic store ID data for each store in our Superstore
 
